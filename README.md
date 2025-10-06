@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Turbo-girl](https://turbogirleclipselive.azmth.ai/)
 
-- 🌱 I’m currently learning **Solana Rust**
-
 - As well as [ItsTheShip Duck Race](https://itsduckrace.itstheship.com/)
+
+- 🌱 I’m currently learning **Solana Rust**
 
 - 👯 I’m looking to collaborate on [Alice in wonderland (Unity6)](https://github.com/i3meneniya/alicegame)
 
