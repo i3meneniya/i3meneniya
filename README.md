@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **coldamici@gmail.com**
 
-- ⚡ Some facts about me **I used to be a professional snowboarder (placed top 27 in 2016-2017 season), nowadays - skateboarding for fun :)**
+- ⚡ Some facts about me: **I used to be a professional snowboarder (placed top 27 in 2016-2017 season), nowadays - skateboarding for fun :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
