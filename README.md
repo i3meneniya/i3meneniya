@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Gleb</h1>
-<h3 align="center">Im a full stack developer from Novosibirk, Russia based in Kuala Lumpur, Malaysia. I have comprehensive experience working with frontend (React JS, Tailwind CSS), as well as backend (Server side Python). Along with it, I'm a game developer (Currently studying in APU on game development course) and web3 enthusiast that contributed to many solana and etherium based projects.</h3>
+<h3 align="center">Im a full stack developer from Novosibirk, Russia based in Kuala Lumpur, Malaysia. I have comprehensive experience working with frontend (React JS, Tailwind CSS), as well as backend (Server side Python). Along with it, I'm a game developer (Currently studying in APU on game development course) and web3 enthusiast that contributed to multiple solana and etherium based projects.</h3>
 
 - 💼 Full-stack developer @ [AZMTH terminal](https://www.linkedin.com/company/azmuth-terminal/posts/?feedView=all)
 
