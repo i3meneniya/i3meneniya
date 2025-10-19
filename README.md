@@ -17,8 +17,6 @@
 
 - ⚡ Some facts about me **I used to be a professional snowboarder (placed top 27 in 2016-2017 season), nowadays - skateboarding for fun :)**
 
-[![i3meneniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=i3meneniya)](https://github.com/i3meneniya/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/coldamici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/coldamici" height="30" width="40" /></a>
